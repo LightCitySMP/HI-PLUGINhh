@@ -1,0 +1,5 @@
+name: HiPlugin
+version: '1.0'
+main: net.hiplugin.HiPlugin
+description: Sends a greeting or reloads
+api-version: '1.21'
