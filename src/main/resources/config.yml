@@ -1,5 +1,0 @@
-message: "&aHello there, %player%!"
-cooldown-seconds: 5
-disabled-worlds:
-  - "world_nether"
-  - "world_the_end"
